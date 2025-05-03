@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/kukapay-cryptopanic-mcp-server-badge.png)](https://mseep.ai/app/kukapay-cryptopanic-mcp-server)
+
 # cryptopanic-mcp-server
 
 [![Discord](https://img.shields.io/discord/1353556181251133481?cacheSeconds=3600)](https://discord.gg/aRnuu2eJ)
