@@ -2,6 +2,7 @@
 
 [![Discord](https://img.shields.io/discord/1353556181251133481?cacheSeconds=3600)](https://discord.gg/aRnuu2eJ)
 ![GitHub License](https://img.shields.io/github/license/kukapay/blockbeats-mcp)
+[![smithery badge](https://smithery.ai/badge/@kukapay/cryptopanic-mcp-server)](https://smithery.ai/server/@kukapay/cryptopanic-mcp-server)
 
 Provide the latest cryptocurrency news to AI agents, powered by [CryptoPanic](https://cryptopanic.com/).
 
