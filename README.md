@@ -16,7 +16,7 @@ The server implements only one tool:
 ```python
 get_crypto_news(kind: str = "news", num_pages: int = 1) -> str
 ```
-- `kind`: Content type (news, analysis, videos)
+- `kind`: Content type (news, media)
 - `num_pages`: Number of pages to fetch (default: 1, max: 10)
 
 Example Output: 
@@ -31,7 +31,7 @@ Example Output:
 
 ## Configuration
 
-- CryptoPanic API key: get one [here](https://cryptopanic.com/developers/api/)
+- CryptoPanic API key & API plan: get one [here](https://cryptopanic.com/developers/api/)
 - Add a server entry to your configuration file:
 
 ```
@@ -44,11 +44,15 @@ Example Output:
       "main.py" 
     ], 
     "env": { 
-      "CRYPTOPANIC_API_KEY": "" 
+      "CRYPTOPANIC_API_PLAN": "your_api_plan",
+      "CRYPTOPANIC_API_KEY": "your_api_key" 
     } 
   } 
 }
 ```
+
+- Replace `/your/path/to/cryptopanic-mcp-server` with your actual installation path`
+- Replace `CRYPTOPANIC_API_PLAN` and `CRYPTOPANIC_API_KEY` with your API plan and key from CryptoPanic. 
 
 ## License
 
