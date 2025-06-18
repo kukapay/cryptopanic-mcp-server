@@ -39,7 +39,8 @@ Example Output:
   "cryptopanic-mcp-server": { 
     "command": "uv", 
     "args": [ 
-      "--directory", "/your/path/to/cryptopanic-mcp-server", 
+      "--directory", 
+      "/your/path/to/cryptopanic-mcp-server", 
       "run", 
       "main.py" 
     ], 
@@ -51,7 +52,7 @@ Example Output:
 }
 ```
 
-- Replace `/your/path/to/cryptopanic-mcp-server` with your actual installation path`
+- Replace `/your/path/to/cryptopanic-mcp-server` with your actual installation path.
 - Replace `CRYPTOPANIC_API_PLAN` and `CRYPTOPANIC_API_KEY` with your API plan and key from CryptoPanic. 
 
 ## License
