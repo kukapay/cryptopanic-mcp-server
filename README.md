@@ -9,6 +9,8 @@ Provide the latest cryptocurrency news to AI agents, powered by [CryptoPanic](ht
   <img width="380" height="200" src="https://glama.ai/mcp/servers/dp6kztv7yx/badge" alt="cryptopanic-mcp-server MCP server" />
 </a>
 
+> Try [Kukapay News MCP](https://github.com/kukapay/kukapay-news-mcp), no api key required.
+
 ## Tools
 
 The server implements only one tool: 
