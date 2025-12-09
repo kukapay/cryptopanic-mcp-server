@@ -1,15 +1,16 @@
-# cryptopanic-mcp-server
-
-[![Discord](https://img.shields.io/discord/1353556181251133481?cacheSeconds=3600)](https://discord.gg/aRnuu2eJ)
-![GitHub License](https://img.shields.io/github/license/kukapay/blockbeats-mcp)
-
-Provide the latest cryptocurrency news to AI agents, powered by [CryptoPanic](https://cryptopanic.com/).
-
 <a href="https://glama.ai/mcp/servers/dp6kztv7yx">
   <img width="380" height="200" src="https://glama.ai/mcp/servers/dp6kztv7yx/badge" alt="cryptopanic-mcp-server MCP server" />
 </a>
 
-> Try [Kukapay News MCP](https://github.com/kukapay/kukapay-news-mcp), no api key required.
+# cryptopanic-mcp-server
+
+Provide the latest cryptocurrency news to AI agents, powered by [CryptoPanic](https://cryptopanic.com/).
+
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Node.js](https://img.shields.io/badge/Node.js-18.x-green.svg)](https://nodejs.org/)
+![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
+
+*Try [Kukapay News MCP](https://github.com/kukapay/kukapay-news-mcp) — no API key required, fully AI-annotated*.
 
 ## Tools
 
