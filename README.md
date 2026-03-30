@@ -61,3 +61,8 @@ Example Output:
 ## License
 
 MIT License - see `LICENSE` file
+
+## Hosted deployment
+
+A hosted deployment is available on [Fronteir AI](https://fronteir.ai/mcp/kukapay-cryptopanic-mcp-server).
+
